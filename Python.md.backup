@@ -13,7 +13,11 @@
 
 - *neovim (basic Config, Learn as you go) [Setup Neovim](https://mattermost.com/blog/how-to-install-and-set-up-neovim-for-code-editing/)*
 
+
+
 # Python Concepts
+
+
 
 ## Print()
 
@@ -58,18 +62,9 @@ if listthing:
 
 This evaluates as a bolean ( True / False)
 
-```python
-countries = ["Brazil", "Japan", "Canada", "Australia", "South Africa"]
 
 
-while countries:
-    single = countries.pop();
-    print(f"{single}")
 
-print(f"\n{countries}")
-```
-
-Using a while clause to test if the string is empty, use this when manipulating lists
 
 ## Dictionaries
 
@@ -126,9 +121,15 @@ blue
 25
 ```
 
+
+
+
+
 ## While
 
 Use flags
+
+
 
 ```python
 flag = True
