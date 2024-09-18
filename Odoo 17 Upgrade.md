@@ -10,8 +10,6 @@
 
 [Studio &#8212; Odoo 17.0 documentation](https://www.odoo.com/documentation/17.0/applications/studio.html)
 
-
-
 ## Tools to free Craig:
 
 ### Helpdesk
@@ -23,5 +21,11 @@
 * [Docs]([Spreadsheet &#8212; Odoo 17.0 documentation](https://www.odoo.com/documentation/17.0/applications/productivity/spreadsheet.html))
 
 * Build Live reports in Spreadsheet (eg: dead stock)
+
+
+
+
+
+Rochelle asks for back-order procedure , Warnings and in 17 you can set confirmation manually in operation types
 
 

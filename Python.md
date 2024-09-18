@@ -139,8 +139,6 @@ while flag:
     doo foo:
 ```
 
-
-
 ## Functions
 
 Styling Guide:     
@@ -191,18 +189,15 @@ send_messages(phrases,sent_models)
 
 print(phrases)
 print(sent_models)
-
 ```
 
 * Showing the difference of `For` and `while`
 
 * `while` is used when manipulating lists 
 
-
+### 
 
 ### Passing and arbitrary number of arguments
-
-
 
 ```py
 def pizza_topping(size,*toppings): # this create a tuple
@@ -212,15 +207,9 @@ def pizza_topping(size,*toppings): # this create a tuple
 
 <u>this must always be the last in the function definition</u>
 
-
-
 * NB you will often see `*args` which collects arbitrary positional arguments like this
 
-
-
 ### Using Arbitrary Keyword arguments
-
-
 
 ```py
 def build_profile(first,last,**user_info):
@@ -237,10 +226,6 @@ print(user_profile)
 
 * NB you will often see the parameter name `**kwargs` used to collect non-specific keyword arguments
 
-
-
-
-
 ## Module
 
 Styling Guide: descriptive and in all lowercase and underscores
@@ -250,8 +235,6 @@ import pizza as p
 from pizza import pizza_topping as ptop
 from pizza import * #can call the functions directly
 ```
-
-
 
 ## Classes
 
